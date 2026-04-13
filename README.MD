@@ -1,29 +1,28 @@
-# [Game Name]
+# Deciding game name
 
-**GameJam:** :contentReference[oaicite:0]{index=0}  
+**GameJam:** :Gamedev.js Jam 2026  
 **Theme:** MACHINES  
 
 ## Description
-Short explanation of the game.
+First commit
 
 ## Controls
-- Action 1:
-- Action 2:
+Not yet
 
 ## Mechanics
-How machines work and interact in the game.
+Not yet
 
 ## Objective
-What the player needs to achieve.
+Not yet
 
 ## Technologies
-- Engine:
-- Language:
+- Engine: Godot
+- Language: GDScript
 
 ## Credits
-- Development:
-- Art:
-- Audio:
+- Development: GeraldGlitch
+- Art: GeraldGlitch
+- Audio: GeraldGlitch
 
 ## Notes
-Any additional details.
+Waiting the redbull to make effect
