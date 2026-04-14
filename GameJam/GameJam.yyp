@@ -10,6 +10,8 @@
   },
   "defaultScriptType":0,
   "Folders":[
+    {"$GMFolder":"","%Name":"BACKGROUNDS","folderPath":"folders/BACKGROUNDS.yy","name":"BACKGROUNDS","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"SCRIPTS","folderPath":"folders/SCRIPTS.yy","name":"SCRIPTS","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"UI","folderPath":"folders/UI.yy","name":"UI","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
@@ -21,13 +23,20 @@
   },
   "name":"GameJam",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"playbtn_sprite","path":"sprites/playbtn_sprite/playbtn_sprite.yy",},},
+    {"id":{"name":"button_father","path":"objects/button_father/button_father.yy",},},
+    {"id":{"name":"play_btn","path":"objects/play_btn/play_btn.yy",},},
+    {"id":{"name":"Main","path":"rooms/Main/Main.yy",},},
+    {"id":{"name":"infobtn_spr","path":"sprites/infobtn_spr/infobtn_spr.yy",},},
+    {"id":{"name":"leftbtn_spr","path":"sprites/leftbtn_spr/leftbtn_spr.yy",},},
+    {"id":{"name":"main_bkg","path":"sprites/main_bkg/main_bkg.yy",},},
+    {"id":{"name":"playbtn_spr","path":"sprites/playbtn_spr/playbtn_spr.yy",},},
+    {"id":{"name":"rightbtn_spr","path":"sprites/rightbtn_spr/rightbtn_spr.yy",},},
+    {"id":{"name":"xbtn_spr","path":"sprites/xbtn_spr/xbtn_spr.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Main","path":"rooms/Main/Main.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
