@@ -1,1 +1,1 @@
-room_goto(Intro1);
+room_goto(Lvl_Selection);
