@@ -1,20 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"x_btn",
+  "%Name":"popup_obj",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"x_btn",
+  "name":"popup_obj",
   "overriddenProperties":[],
   "parent":{
     "name":"UI",
     "path":"folders/UI.yy",
   },
-  "parentObjectId":{
-    "name":"button_father",
-    "path":"objects/button_father/button_father.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"xbtn_spr",
-    "path":"sprites/xbtn_spr/xbtn_spr.yy",
+    "name":"popup_spr",
+    "path":"sprites/popup_spr/popup_spr.yy",
   },
   "spriteMaskId":null,
   "visible":true,
