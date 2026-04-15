@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"play_btn",
+  "%Name":"info_btn",
   "eventList":[],
   "managed":true,
-  "name":"play_btn",
+  "name":"info_btn",
   "overriddenProperties":[],
   "parent":{
     "name":"UI",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"playbtn_spr",
-    "path":"sprites/playbtn_spr/playbtn_spr.yy",
+    "name":"infobtn_spr",
+    "path":"sprites/infobtn_spr/infobtn_spr.yy",
   },
   "spriteMaskId":null,
   "visible":true,

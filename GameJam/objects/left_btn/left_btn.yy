@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"play_btn",
+  "%Name":"left_btn",
   "eventList":[],
   "managed":true,
-  "name":"play_btn",
+  "name":"left_btn",
   "overriddenProperties":[],
   "parent":{
     "name":"UI",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"playbtn_spr",
-    "path":"sprites/playbtn_spr/playbtn_spr.yy",
+    "name":"leftbtn_spr",
+    "path":"sprites/leftbtn_spr/leftbtn_spr.yy",
   },
   "spriteMaskId":null,
   "visible":true,
