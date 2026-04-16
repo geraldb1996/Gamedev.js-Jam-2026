@@ -9,6 +9,7 @@
     {"name":"inst_47E890FB","path":"rooms/Main/Main.yy",},
     {"name":"inst_7E3A6EE0","path":"rooms/Main/Main.yy",},
     {"name":"inst_7C0D7EAC","path":"rooms/Main/Main.yy",},
+    {"name":"inst_75E0D336","path":"roomui/RoomUI/RoomUI.yy",},
   ],
   "isDnd":false,
   "layers":[

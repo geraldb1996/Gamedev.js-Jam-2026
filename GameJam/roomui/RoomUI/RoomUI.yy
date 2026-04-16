@@ -1,0 +1,21 @@
+{
+  "$GMRoomUI":"",
+  "%Name":"RoomUI",
+  "children":[
+    {"$GMRUILayer":"v1","%Name":"typewritterUI","alignItems":2,"children":[
+        {"$GMRFlexPanel":"","%Name":"FlexPanel","alignItems":2,"children":[
+            {"$GMRInstance":"v4","%Name":"inst_75E0D336","colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps",},"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_75E0D336","objectId":{"name":"typewriter_obj","path":"objects/typewriter_obj/typewriter_obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":368.0,"y":92.0,},
+          ],"flexDirection":0,"height":{"unit":3,"value":184.0,},"justifyContent":1,"name":"FlexPanel","nodeColour":4294084168,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":3,"value":737.0,},},
+      ],"flexDirection":0,"gridX":32,"gridY":32,"justifyContent":1,"name":"typewritterUI","nodeColour":4283779314,"paddingTop":{"unit":1,"value":450.0,},"resourceType":"GMRUILayer","resourceVersion":"2.0",},
+  ],
+  "locked":false,
+  "name":"RoomUI",
+  "parent":{
+    "name":"GameJam",
+    "path":"GameJam.yyp",
+  },
+  "resourceType":"GMRoomUI",
+  "resourceVersion":"2.0",
+  "viewspaceChildren":[],
+  "visible":true,
+}
