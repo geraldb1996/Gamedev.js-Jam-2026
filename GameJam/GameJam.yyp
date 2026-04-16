@@ -57,6 +57,7 @@
     {"id":{"name":"playbtn_spr","path":"sprites/playbtn_spr/playbtn_spr.yy",},},
     {"id":{"name":"popup_spr","path":"sprites/popup_spr/popup_spr.yy",},},
     {"id":{"name":"rightbtn_spr","path":"sprites/rightbtn_spr/rightbtn_spr.yy",},},
+    {"id":{"name":"robot_spr","path":"sprites/robot_spr/robot_spr.yy",},},
     {"id":{"name":"textbox_spr","path":"sprites/textbox_spr/textbox_spr.yy",},},
     {"id":{"name":"xbtn_spr","path":"sprites/xbtn_spr/xbtn_spr.yy",},},
   ],
