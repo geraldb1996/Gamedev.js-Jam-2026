@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"main_snd",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":60.0,
+  "exportDir":"",
+  "name":"main_snd",
+  "parent":{
+    "name":"MUSIC",
+    "path":"folders/MUSIC.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"main_snd.mp3",
+  "volume":1.0,
+}
