@@ -1,9 +1,7 @@
-if (control_obj.first_play)
+if(!audio_is_playing(click_snd))
 {
-	control_obj.first_play = false;
-	room_goto(Intro1);	
+	audio_play_sound(click_snd,10,false);
 }
-else
-{
-	room_goto(Lvl_Selection);
-}
+
+buttonAction = room_speed * 0.2;
+alarm_set(0,  buttonAction);

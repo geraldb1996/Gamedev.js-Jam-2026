@@ -1,5 +1,5 @@
 // typewriter_obj Create Event
-text_full = "This is Shakespeare… not the poet, The cat. Once, I lived in peace,\nan existence of measured grace, standing sentinel over the sacred confines of this household. \nNo vermin stirred, no intruder trespassed, no aberration lingered unchallenged beneath my watch… \nYet, such devotion proved insufficient. For I was undone by the very hand that once sustained me,\n cast aside in favor of a most grotesque impostor… \na vapid, scentless creature that dares assume my rightful place. Mark me well… \nI shall reclaim what is mine, whatever the cost may be.";
+text_full = "This is shakespeare, alo :3";
 text_current = "";
 char_index = 0;
 text_speed = 0.5; // characters per frame
