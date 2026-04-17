@@ -12,6 +12,7 @@
   "Folders":[
     {"$GMFolder":"","%Name":"BACKGROUNDS","folderPath":"folders/BACKGROUNDS.yy","name":"BACKGROUNDS","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"GAMEELEMENTS","folderPath":"folders/GAMEELEMENTS.yy","name":"GAMEELEMENTS","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"PLAYER","folderPath":"folders/PLAYER.yy","name":"PLAYER","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"LEVELS","folderPath":"folders/LEVELS.yy","name":"LEVELS","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"LEVELSELECT","folderPath":"folders/LEVELSELECT.yy","name":"LEVELSELECT","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"SPRITES","folderPath":"folders/LEVELSELECT/SPRITES.yy","name":"SPRITES","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -62,6 +63,7 @@
     {"id":{"name":"openbox_spr","path":"sprites/openbox_spr/openbox_spr.yy",},},
     {"id":{"name":"petubox_spr","path":"sprites/petubox_spr/petubox_spr.yy",},},
     {"id":{"name":"playbtn_spr","path":"sprites/playbtn_spr/playbtn_spr.yy",},},
+    {"id":{"name":"player_idle_spr","path":"sprites/player_idle_spr/player_idle_spr.yy",},},
     {"id":{"name":"popup_spr","path":"sprites/popup_spr/popup_spr.yy",},},
     {"id":{"name":"rightbtn_spr","path":"sprites/rightbtn_spr/rightbtn_spr.yy",},},
     {"id":{"name":"robot_spr","path":"sprites/robot_spr/robot_spr.yy",},},
