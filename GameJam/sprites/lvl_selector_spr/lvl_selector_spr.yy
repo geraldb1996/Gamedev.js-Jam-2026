@@ -28,7 +28,7 @@
   "origin":4,
   "parent":{
     "name":"SPRITES",
-    "path":"folders/LEVELSELECT/SPRITES.yy",
+    "path":"folders/SPRITES.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

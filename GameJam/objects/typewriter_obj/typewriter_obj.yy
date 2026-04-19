@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"UI",
-    "path":"folders/UI.yy",
+    "path":"folders/OBJECTS/UI.yy",
   },
   "parentObjectId":null,
   "persistent":false,

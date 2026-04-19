@@ -28,7 +28,7 @@ view_visible[0] = true;
 // Fade to black properties
 fade_alpha = 0;
 fade_speed = 0.01; // Alpha increase per frame
-start_fade_time = 50;
+start_fade_time = 52;
 is_fading = false;
 
 change_background = function(_sprite) {

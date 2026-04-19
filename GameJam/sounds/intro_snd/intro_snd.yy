@@ -14,8 +14,8 @@
   "exportDir":"",
   "name":"intro_snd",
   "parent":{
-    "name":"START",
-    "path":"folders/START.yy",
+    "name":"MUSIC and SOUNDS",
+    "path":"folders/MUSIC and SOUNDS.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

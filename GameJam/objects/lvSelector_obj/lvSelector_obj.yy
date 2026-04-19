@@ -6,8 +6,8 @@
   "name":"lvSelector_obj",
   "overriddenProperties":[],
   "parent":{
-    "name":"LEVELSELECT",
-    "path":"folders/LEVELSELECT.yy",
+    "name":"UI",
+    "path":"folders/OBJECTS/UI.yy",
   },
   "parentObjectId":null,
   "persistent":false,

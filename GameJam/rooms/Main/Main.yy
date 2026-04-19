@@ -22,8 +22,8 @@
   ],
   "name":"Main",
   "parent":{
-    "name":"GameJam",
-    "path":"GameJam.yyp",
+    "name":"ROOMS",
+    "path":"folders/ROOMS.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

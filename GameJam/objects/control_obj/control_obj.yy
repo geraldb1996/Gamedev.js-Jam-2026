@@ -11,8 +11,8 @@
   "name":"control_obj",
   "overriddenProperties":[],
   "parent":{
-    "name":"GameJam",
-    "path":"GameJam.yyp",
+    "name":"Controls",
+    "path":"folders/OBJECTS/Controls.yy",
   },
   "parentObjectId":null,
   "persistent":true,

@@ -14,8 +14,8 @@
   "exportDir":"",
   "name":"main_snd",
   "parent":{
-    "name":"MUSIC",
-    "path":"folders/MUSIC.yy",
+    "name":"MUSIC and SOUNDS",
+    "path":"folders/MUSIC and SOUNDS.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

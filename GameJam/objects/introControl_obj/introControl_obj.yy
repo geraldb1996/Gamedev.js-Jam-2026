@@ -10,8 +10,8 @@
   "name":"introControl_obj",
   "overriddenProperties":[],
   "parent":{
-    "name":"START",
-    "path":"folders/START.yy",
+    "name":"Controls",
+    "path":"folders/OBJECTS/Controls.yy",
   },
   "parentObjectId":null,
   "persistent":false,

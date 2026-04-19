@@ -17,8 +17,8 @@
   ],
   "name":"Intro1",
   "parent":{
-    "name":"START",
-    "path":"folders/START.yy",
+    "name":"INTRO",
+    "path":"folders/ROOMS/INTRO.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

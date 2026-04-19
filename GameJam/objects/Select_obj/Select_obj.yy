@@ -9,8 +9,8 @@
   "name":"Select_obj",
   "overriddenProperties":[],
   "parent":{
-    "name":"LEVELSELECT",
-    "path":"folders/LEVELSELECT.yy",
+    "name":"UI",
+    "path":"folders/OBJECTS/UI.yy",
   },
   "parentObjectId":{
     "name":"button_father",

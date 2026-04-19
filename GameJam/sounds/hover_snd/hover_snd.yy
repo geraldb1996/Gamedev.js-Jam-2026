@@ -15,7 +15,7 @@
   "name":"hover_snd",
   "parent":{
     "name":"UI SFX",
-    "path":"folders/UI/UI SFX.yy",
+    "path":"folders/MUSIC and SOUNDS/UI SFX.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

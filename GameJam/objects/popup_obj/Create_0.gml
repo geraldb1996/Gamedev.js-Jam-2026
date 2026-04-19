@@ -1,5 +1,5 @@
 //
-message_info = "This game was developed by GeraldGlitch\nfor Gamedev.js Jam 2026. Source code\non GitHub, feel free to take a look:\nhttps://github.com/geraldb1996/Gamedev.js-Jam-2026";
+message_info = "This game was developed by GeraldGlitch\nfor Gamedev.js Jam 2026. Source code\non GitHub, feel free to take a look:\nhttps://github.com/geraldb1996/Gamedev.js-Jam-2026\n\nGame Designer: GeraldGlitch.\nProgrammer: GeraldGlitch somes scripts AI assisted.\n2D Artist: GeraldGlitch + some Gemini.\nAnimator: GeraldGlitch.\nSound Designer: GeraldGlitch + Suno.\nQA Tester: GeraldGlitch.\nProject Manager: GeraldGlitch.";
 
 // Center popup on screen
 x = room_width  / 2;
