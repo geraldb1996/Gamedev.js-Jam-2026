@@ -12,5 +12,4 @@ switch (room)
 		audio_play_sound(intro_snd,10,false);
 		layer_set_visible("typewritterUI", true);
 		break;
-
 }

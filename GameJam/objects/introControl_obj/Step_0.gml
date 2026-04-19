@@ -7,6 +7,12 @@ for (var i = 0; i < array_length(bg_schedule); i++) {
     if (!_event.done && intro_timer >= _event.time) {
         change_background(_event.spr);
         zoom_dir = _event.zoom_dir; // Flip zoom direction
+        
+        // Update typewriter text
+        with (typewriter_obj) {
+            set_text(_event.text);
+        }
+        
         _event.done = true;
     }
 }
@@ -31,3 +37,16 @@ var _y = (room_height - _h) / 2;
 
 camera_set_view_size(view_camera[0], _w, _h);
 camera_set_view_pos(view_camera[0], _x, _y);
+
+// 5. Fade to Black Logic
+if (intro_timer >= start_fade_time) {
+    is_fading = true;
+}
+
+if (is_fading) {
+    fade_alpha += fade_speed;
+    if (fade_alpha >= 1) {
+        fade_alpha = 1;
+        // Optional: room_goto(NextRoom);
+    }
+}

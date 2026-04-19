@@ -12,11 +12,11 @@
   "Folders":[
     {"$GMFolder":"","%Name":"BACKGROUNDS","folderPath":"folders/BACKGROUNDS.yy","name":"BACKGROUNDS","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"GAMEELEMENTS","folderPath":"folders/GAMEELEMENTS.yy","name":"GAMEELEMENTS","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"PLAYER","folderPath":"folders/PLAYER.yy","name":"PLAYER","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"LEVELS","folderPath":"folders/LEVELS.yy","name":"LEVELS","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"LEVELSELECT","folderPath":"folders/LEVELSELECT.yy","name":"LEVELSELECT","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"SPRITES","folderPath":"folders/LEVELSELECT/SPRITES.yy","name":"SPRITES","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"MUSIC","folderPath":"folders/MUSIC.yy","name":"MUSIC","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"PLAYER","folderPath":"folders/PLAYER.yy","name":"PLAYER","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"SCRIPTS","folderPath":"folders/SCRIPTS.yy","name":"SCRIPTS","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"START","folderPath":"folders/START.yy","name":"START","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"UI","folderPath":"folders/UI.yy","name":"UI","resourceType":"GMFolder","resourceVersion":"2.0",},

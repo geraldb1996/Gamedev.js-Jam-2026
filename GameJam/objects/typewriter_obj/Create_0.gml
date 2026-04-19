@@ -1,5 +1,5 @@
 // typewriter_obj Create Event
-text_full = "This is shakespeare, alo :3";
+text_full = "This is Shakespeare… not the poet, The cat. Once, I lived in peace. An existence of measured grace…";
 text_current = "";
 char_index = 0;
 text_speed = 0.5; // characters per frame
@@ -32,6 +32,14 @@ refresh_size = function() {
         image_xscale = (_txt_w + box_padding_x * 2) / _spr_w;
         image_yscale = (_txt_h + box_padding_y * 2) / _spr_h;
     }
+}
+
+set_text = function(_new_text) {
+    text_full = _new_text;
+    text_current = "";
+    char_index = 0;
+    is_done = false;
+    refresh_size();
 }
 
 refresh_size();

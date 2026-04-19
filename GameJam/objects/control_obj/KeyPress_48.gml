@@ -1,0 +1,1 @@
+if (room == Intro1) { room_goto(Lvl_Selection) }

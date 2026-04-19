@@ -1,3 +1,6 @@
+//
+message_info = "This game was developed by GeraldGlitch\nfor Gamedev.js Jam 2026. Source code\non GitHub, feel free to take a look:\nhttps://github.com/geraldb1996/Gamedev.js-Jam-2026";
+
 // Center popup on screen
 x = room_width  / 2;
 y = room_height / 2;
@@ -6,7 +9,7 @@ y = room_height / 2;
 depth = -9999;
 
 // popup_message and popup_level should be set by whoever creates this instance
-if (!variable_instance_exists(id, "popup_message")) popup_message = "This game was developed by GeraldGlitch\nfor Gamedev.js Jam 2026. Source code\non GitHub, feel free to take a look:\nhttps://github.com/geraldb1996/Gamedev.js-Jam-2026";
+if (!variable_instance_exists(id, "popup_message")) popup_message = message_info ;
 if (!variable_instance_exists(id, "popup_level"))   popup_level   = -1;
 
 // Spawn the close (X) button, anchored to top-right of popup sprite
