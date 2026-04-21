@@ -1,20 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"right_btn",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"player_obj",
+  "eventList":[],
   "managed":true,
-  "name":"right_btn",
+  "name":"player_obj",
   "overriddenProperties":[],
   "parent":{
-    "name":"Buttons",
-    "path":"folders/OBJECTS/UI/Buttons.yy",
+    "name":"Player",
+    "path":"folders/OBJECTS/Player.yy",
   },
-  "parentObjectId":{
-    "name":"button_father",
-    "path":"objects/button_father/button_father.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"rightbtn_spr",
-    "path":"sprites/rightbtn_spr/rightbtn_spr.yy",
+    "name":"player_idle_spr",
+    "path":"sprites/player_idle_spr/player_idle_spr.yy",
   },
   "spriteMaskId":null,
   "visible":true,

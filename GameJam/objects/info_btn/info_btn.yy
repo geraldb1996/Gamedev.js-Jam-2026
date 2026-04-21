@@ -8,8 +8,8 @@
   "name":"info_btn",
   "overriddenProperties":[],
   "parent":{
-    "name":"UI",
-    "path":"folders/OBJECTS/UI.yy",
+    "name":"Buttons",
+    "path":"folders/OBJECTS/UI/Buttons.yy",
   },
   "parentObjectId":{
     "name":"button_father",
