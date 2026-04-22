@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"player_obj",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"player_obj",
   "overriddenProperties":[],
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"player_idle_spr",
-    "path":"sprites/player_idle_spr/player_idle_spr.yy",
+    "name":"playerWALK_spr",
+    "path":"sprites/playerWALK_spr/playerWALK_spr.yy",
   },
   "spriteMaskId":null,
   "visible":true,
