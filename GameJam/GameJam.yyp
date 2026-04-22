@@ -41,6 +41,7 @@
   "resources":[
     {"id":{"name":"button_father","path":"objects/button_father/button_father.yy",},},
     {"id":{"name":"control_obj","path":"objects/control_obj/control_obj.yy",},},
+    {"id":{"name":"helpButton_btn","path":"objects/helpButton_btn/helpButton_btn.yy",},},
     {"id":{"name":"info_btn","path":"objects/info_btn/info_btn.yy",},},
     {"id":{"name":"introControl_obj","path":"objects/introControl_obj/introControl_obj.yy",},},
     {"id":{"name":"left_btn","path":"objects/left_btn/left_btn.yy",},},
@@ -67,6 +68,7 @@
     {"id":{"name":"catseeing_spr","path":"sprites/catseeing_spr/catseeing_spr.yy",},},
     {"id":{"name":"cloud_spr","path":"sprites/cloud_spr/cloud_spr.yy",},},
     {"id":{"name":"foodbowl_spr","path":"sprites/foodbowl_spr/foodbowl_spr.yy",},},
+    {"id":{"name":"helpButton_spr","path":"sprites/helpButton_spr/helpButton_spr.yy",},},
     {"id":{"name":"house_spr","path":"sprites/house_spr/house_spr.yy",},},
     {"id":{"name":"infobtn_spr","path":"sprites/infobtn_spr/infobtn_spr.yy",},},
     {"id":{"name":"leftbtn_spr","path":"sprites/leftbtn_spr/leftbtn_spr.yy",},},
@@ -74,6 +76,7 @@
     {"id":{"name":"lvl_selector_spr","path":"sprites/lvl_selector_spr/lvl_selector_spr.yy",},},
     {"id":{"name":"main_bkg","path":"sprites/main_bkg/main_bkg.yy",},},
     {"id":{"name":"openbox_spr","path":"sprites/openbox_spr/openbox_spr.yy",},},
+    {"id":{"name":"paw_spr","path":"sprites/paw_spr/paw_spr.yy",},},
     {"id":{"name":"petubox_spr","path":"sprites/petubox_spr/petubox_spr.yy",},},
     {"id":{"name":"playbtn_spr","path":"sprites/playbtn_spr/playbtn_spr.yy",},},
     {"id":{"name":"playerIDLE_spr","path":"sprites/playerIDLE_spr/playerIDLE_spr.yy",},},
