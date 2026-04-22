@@ -9,6 +9,7 @@ switch(room){
 		break;
 	
 	case Lvl_Selection:
+	case Level1:
 		if (instance_exists(popup_obj)) 
 		{
 			instance_destroy(popup_obj); 

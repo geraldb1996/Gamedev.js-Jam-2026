@@ -14,7 +14,12 @@ draw_set_font(-1);
 draw_set_color(c_black);
 
 var _hh = sprite_get_height(popup_spr) / 2;
-draw_text(x, y - 24, popup_message); // nudge text up to leave room for play_btn
+draw_text(x, y - 24, popup_message); // nudge text up to leave room for play_btn or item
+
+if (item_sprite != -1) {
+    draw_sprite(item_sprite, item_index, x, y + _hh - 48);
+}
+
 
 // Reset defaults
 draw_set_halign(fa_left);

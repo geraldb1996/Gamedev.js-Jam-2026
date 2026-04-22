@@ -11,6 +11,9 @@ depth = -9999;
 // popup_message and popup_level should be set by whoever creates this instance
 if (!variable_instance_exists(id, "popup_message")) popup_message = message_info ;
 if (!variable_instance_exists(id, "popup_level"))   popup_level   = -1;
+if (!variable_instance_exists(id, "item_sprite"))   item_sprite   = -1;
+if (!variable_instance_exists(id, "item_index"))    item_index    =  0;
+
 
 // Spawn the close (X) button, anchored to top-right of popup sprite
 var _hw = sprite_get_width(popup_spr)  / 2;
@@ -25,28 +28,10 @@ close_btn = instance_create_layer(
 close_btn.depth = depth - 1;
 
 // Spawn the play button centred below the popup text area
-if (room != Main) {
-    var _self_id = id; // capture for the closure
-    var _lvl = popup_level;
-
+if (room == Lvl_Selection) {
     play_btn_inst = instance_create_layer(x, y + _hh - 48, "Instances", play_btn);
     play_btn_inst.depth = depth - 1;
-    play_btn_inst.target_level = popup_level; // store on instance so the closure can read it via self
-
-    // Override the play_btn alarm action with a level-specific one
-    play_btn_inst.launch_action = method(play_btn_inst, function() {
-        // self = play_btn_inst here, so target_level is accessible
-        var _lvl_target = target_level;
-        with (popup_obj) {
-            instance_destroy(close_btn);
-            instance_destroy(id);
-        }
-        switch (_lvl_target) {
-            case 0: show_message("Going to Level 1"); break;
-            case 1: show_message("Going to Level 2"); break;
-            case 2: show_message("Going to Level 3"); break;
-            default: show_message("Unknown level");   break;
-        }
-    });
+    play_btn_inst.target_level = popup_level; 
 }
+
 

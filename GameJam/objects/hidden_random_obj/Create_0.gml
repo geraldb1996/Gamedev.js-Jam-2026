@@ -1,0 +1,1 @@
+myLife = irandom_range(3, 10);

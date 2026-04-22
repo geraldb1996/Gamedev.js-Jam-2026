@@ -1,0 +1,1 @@
+instance_create_depth(x,y,-10, random_drop_obj);

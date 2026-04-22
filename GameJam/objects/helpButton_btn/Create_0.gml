@@ -1,0 +1,1 @@
+message = "I need to identify where the mouse burrow is\nlocated, once you get them you need to go\nto the point and trap one of the mouses to\nget it inside the house, I know there were\nsome nearby.\n\nUse the paw to check different places, move\nthe cat with (left) (right) arrow or (A)\n(D) buttons";
