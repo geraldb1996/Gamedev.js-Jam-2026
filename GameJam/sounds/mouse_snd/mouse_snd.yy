@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"mouse_snd",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.20027211,
+  "exportDir":"",
+  "name":"mouse_snd",
+  "parent":{
+    "name":"UI SFX",
+    "path":"folders/MUSIC and SOUNDS/UI SFX.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mouse_snd.ogg",
+  "volume":1.0,
+}

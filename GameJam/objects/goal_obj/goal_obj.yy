@@ -1,16 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"player_obj",
+  "%Name":"goal_obj",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"goal_arrow_obj","path":"objects/goal_arrow_obj/goal_arrow_obj.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"player_obj",
+  "name":"goal_obj",
   "overriddenProperties":[],
   "parent":{
-    "name":"Player",
-    "path":"folders/OBJECTS/Player.yy",
+    "name":"INVINSIBLE OBJ",
+    "path":"folders/OBJECTS/INVINSIBLE OBJ.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,9 +33,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"playerWALK_spr",
-    "path":"sprites/playerWALK_spr/playerWALK_spr.yy",
+    "name":"goal_spr",
+    "path":"sprites/goal_spr/goal_spr.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
