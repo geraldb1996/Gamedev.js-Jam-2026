@@ -2,6 +2,8 @@
 switch(room){
 	case Main:
 	case Level1_a:
+	case Level1_b:
+	case Level1_c:
 		if (instance_exists(popup_obj)) 
 		{
 			instance_destroy(popup_obj);

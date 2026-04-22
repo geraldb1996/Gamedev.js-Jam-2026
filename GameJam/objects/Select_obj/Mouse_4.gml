@@ -2,6 +2,12 @@
 if (instance_exists(popup_obj)) exit; // Don't stack popups
 
 var _lvl = image_index;
+
+// Check if level plan was already tried/completed
+if (_lvl == 0 && control_obj.plan_level1) exit;
+if (_lvl == 1 && control_obj.plan_level2) exit;
+if (_lvl == 2 && control_obj.plan_level3) exit;
+
 var _msg = "";
 
 switch (_lvl) {

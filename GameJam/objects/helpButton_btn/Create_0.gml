@@ -5,4 +5,12 @@ switch(room)
 	case Level1_a:
 		message = "Trap the mouse by clicking on it,\nonce the bar  is full\nyou can move to the next step of the plan.";
 		break;
+		
+	case Level1_b:
+		message = "Take the mouse inside the house,\nI dont think that impostor knows what to do";
+		break;
+		
+	case Level1_c:
+		message = "Infiltration succesful, place the cat\nnear the metal creature";
+		break;
 }
