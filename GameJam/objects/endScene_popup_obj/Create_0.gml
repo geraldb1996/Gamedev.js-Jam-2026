@@ -1,5 +1,13 @@
 //
-popup_message = "Uh Oh!\n\nWell... Seems like it is a little\nbit more efficient than I expected\nI need to try a different way\n\nPress SPACE";
+
+
+switch(room)
+{
+	case Level1_c:
+		popup_message = "Uh Oh!\n\nWell... Seems like this impostor is a little\nbit more efficient than I expected\nI need to try a different way\n\nPress SPACE";
+		break;
+
+}
 
 // Center popup on screen
 x = room_width  / 2;

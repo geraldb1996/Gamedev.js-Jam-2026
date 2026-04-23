@@ -13,4 +13,9 @@ switch(room)
 	case Level1_c:
 		message = "Infiltration succesful, place the cat\nnear the metal creature";
 		break;
+		
+	case Level2:
+	case Level2_a:
+		message = "Get into the bedroom and leave\na big piece of karma on the bed.\nBe very careful to not be discovered\nby the human, so they can blame the impostor";
+		break;
 }

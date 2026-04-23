@@ -1,13 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"robotCat_obj",
-  "eventList":[],
+  "%Name":"robotCat_thatMoves_obj",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"robotCat_obj",
+  "name":"robotCat_thatMoves_obj",
   "overriddenProperties":[],
   "parent":{
-    "name":"LV1",
-    "path":"folders/OBJECTS/LV1.yy",
+    "name":"LV2",
+    "path":"folders/OBJECTS/LV2.yy",
   },
   "parentObjectId":null,
   "persistent":false,

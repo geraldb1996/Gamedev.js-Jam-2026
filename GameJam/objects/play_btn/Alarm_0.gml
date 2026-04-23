@@ -22,8 +22,10 @@ switch(room)
 		break;
 	case Lvl_Selection:
 		// Cleanup popup if it exists (including its close button)
-		if (instance_exists(popup_obj)) {
-			with (popup_obj) {
+		if (instance_exists(popup_obj)) 
+		{
+			with (popup_obj) 
+			{
 				if (variable_instance_exists(id, "close_btn")) instance_destroy(close_btn);
 				instance_destroy(id);
 			}
@@ -32,11 +34,17 @@ switch(room)
 		// Transition to the selected level
 		switch(Select_obj.image_index)
 		{
-			case 0: room_goto(Level1); break;
+			case 0: 
+			room_goto(Level1); 
+			break;
 			
 			case 1:
+			room_goto(Level2);
+			break; 
+			
 			case 2:
-			room_goto(pendingLevel); break;
+			room_goto(pendingLevel); 
+			break;
 			
 			default: show_message("Unknown level selected"); break;
 		}

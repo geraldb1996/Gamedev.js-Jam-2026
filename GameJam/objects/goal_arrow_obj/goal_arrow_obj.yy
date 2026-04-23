@@ -6,8 +6,8 @@
   "name":"goal_arrow_obj",
   "overriddenProperties":[],
   "parent":{
-    "name":"UI",
-    "path":"folders/OBJECTS/UI.yy",
+    "name":"PopUps and Messages",
+    "path":"folders/OBJECTS/UI/PopUps and Messages.yy",
   },
   "parentObjectId":null,
   "persistent":false,
