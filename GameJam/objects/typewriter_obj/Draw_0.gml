@@ -5,7 +5,7 @@ draw_set_halign(halign);
 draw_set_valign(valign);
 
 draw_self();
-draw_text(x, y, text_current);
+draw_text_ext(x, y, text_current, line_sep, max_text_width);
 
 // Reset defaults to avoid affecting other draw calls
 draw_set_halign(fa_middle);
