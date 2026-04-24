@@ -61,6 +61,7 @@
     {"id":{"name":"info_btn","path":"objects/info_btn/info_btn.yy",},},
     {"id":{"name":"introControl_obj","path":"objects/introControl_obj/introControl_obj.yy",},},
     {"id":{"name":"left_btn","path":"objects/left_btn/left_btn.yy",},},
+    {"id":{"name":"level2control_obj","path":"objects/level2control_obj/level2control_obj.yy",},},
     {"id":{"name":"lvSelector_obj","path":"objects/lvSelector_obj/lvSelector_obj.yy",},},
     {"id":{"name":"mouse_obj","path":"objects/mouse_obj/mouse_obj.yy",},},
     {"id":{"name":"mousedrop_obj","path":"objects/mousedrop_obj/mousedrop_obj.yy",},},
