@@ -9,6 +9,8 @@ switch (room)
 		break;
 		
 	case Level2_a:
-		room_goto(Level2_b);
+		instance_destroy(goal_arrow_obj);
+		instance_create_depth(mouse_x,mouse_y,-10000,paw_obj);
+		instance_destroy();
 		break;
 }

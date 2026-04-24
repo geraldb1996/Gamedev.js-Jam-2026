@@ -1,4 +1,9 @@
 //Movement
+if (instance_exists(endScene_popup_obj)) {
+    sprite_index = playerIDLE_spr;
+    exit;
+}
+
 if (keyboard_check(vk_left) || keyboard_check(ord("A")))
 {
     x -= 2;

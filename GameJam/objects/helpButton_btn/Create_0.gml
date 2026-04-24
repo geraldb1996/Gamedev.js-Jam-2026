@@ -16,6 +16,7 @@ switch(room)
 		
 	case Level2:
 	case Level2_a:
+	case Level2_b:
 		message = "Get into the bedroom and leave\na big piece of karma on the bed.\nBe very careful to not be discovered\nby the human, so they can blame the impostor";
 		break;
 }
