@@ -7,6 +7,9 @@ var _rooms = [
     "Level1_a", 
     "Level1_b", 
     "Level1_c", 
+    "Level2",
+    "Level2_a",
+    "Level2_b",
     "pendingLevel"
 ];
 

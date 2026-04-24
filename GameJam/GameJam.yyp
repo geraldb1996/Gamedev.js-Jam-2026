@@ -48,6 +48,7 @@
   },
   "name":"GameJam",
   "resources":[
+    {"id":{"name":"bedroom_obj","path":"objects/bedroom_obj/bedroom_obj.yy",},},
     {"id":{"name":"button_father","path":"objects/button_father/button_father.yy",},},
     {"id":{"name":"control_obj","path":"objects/control_obj/control_obj.yy",},},
     {"id":{"name":"control_topogame_obj","path":"objects/control_topogame_obj/control_topogame_obj.yy",},},
@@ -101,6 +102,7 @@
     {"id":{"name":"mouse_snd","path":"sounds/mouse_snd/mouse_snd.yy",},},
     {"id":{"name":"scratch_snd","path":"sounds/scratch_snd/scratch_snd.yy",},},
     {"id":{"name":"arrow_spr","path":"sprites/arrow_spr/arrow_spr.yy",},},
+    {"id":{"name":"bedroom_bck","path":"sprites/bedroom_bck/bedroom_bck.yy",},},
     {"id":{"name":"cactus_spr","path":"sprites/cactus_spr/cactus_spr.yy",},},
     {"id":{"name":"catrobot_idle_spr","path":"sprites/catrobot_idle_spr/catrobot_idle_spr.yy",},},
     {"id":{"name":"catrobot_walk_spr","path":"sprites/catrobot_walk_spr/catrobot_walk_spr.yy",},},
